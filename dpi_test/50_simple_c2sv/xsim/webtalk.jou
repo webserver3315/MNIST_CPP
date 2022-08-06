@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:47:09 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Sat Jul  9 14:14:03 2022
+# Process ID: 9537
+# Current directory: /home/takeyama/Documents/Laptop_Ubuntu_PSBOJ/4-1/MNIST/dpi_test/50_simple_c2sv/xsim
+# Command line: wbtcv -mode batch -source /home/takeyama/Documents/Laptop_Ubuntu_PSBOJ/4-1/MNIST/dpi_test/50_simple_c2sv/xsim/xsim.dir/work.top/webtalk/xsim_webtalk.tcl -notrace
+# Log file: /home/takeyama/Documents/Laptop_Ubuntu_PSBOJ/4-1/MNIST/dpi_test/50_simple_c2sv/xsim/webtalk.log
+# Journal file: /home/takeyama/Documents/Laptop_Ubuntu_PSBOJ/4-1/MNIST/dpi_test/50_simple_c2sv/xsim/webtalk.jou
+#-----------------------------------------------------------
+source /home/takeyama/Documents/Laptop_Ubuntu_PSBOJ/4-1/MNIST/dpi_test/50_simple_c2sv/xsim/xsim.dir/work.top/webtalk/xsim_webtalk.tcl -notrace
